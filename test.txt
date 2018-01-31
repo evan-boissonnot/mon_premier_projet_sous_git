@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 teststs
 
 
@@ -7,3 +8,11 @@ evelyne
 =======
 backup1
 >>>>>>> 48e3f2f12b067fbaa77ec24be835089eb49d2b8e
+=======
+backup12
+bebbebe
+bebee
+bee
+Alors ça marche ?
+C'est bien les conflitS?
+>>>>>>> 2d95bb48c5ddaf615cf6805899d50917f72a3d97
