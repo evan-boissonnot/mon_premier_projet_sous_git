@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 teststs
 Vive la bienveillance !
 =======
@@ -6,3 +7,12 @@ backup1
 pas bon
 
 
+=======
+backup12
+bebbebe
+bebee
+bee
+>>>>>>> 610e800aba2f1a2363a3fd31b29a72845c12ec4d
+
+on s'amuse
+xxx
