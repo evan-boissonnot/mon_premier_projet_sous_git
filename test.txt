@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 teststs
+<<<<<<< HEAD
 Vive la bienveillance !
 =======
 backup1
@@ -8,11 +9,28 @@ pas bon
 
 
 =======
+
+
+evelyne
+
+=======
+backup1
+>>>>>>> 48e3f2f12b067fbaa77ec24be835089eb49d2b8e
+>>>>>>> d92f37ae919d4f3b00a9db0021492e7db65843fc
+=======
 backup12
 bebbebe
 bebee
 bee
+<<<<<<< HEAD
 >>>>>>> 610e800aba2f1a2363a3fd31b29a72845c12ec4d
 
 on s'amuse
 xxx
+=======
+Alors ça marche ?
+C'est bien les conflitS?
+>>>>>>> 2d95bb48c5ddaf615cf6805899d50917f72a3d97
+>>>>>>> d92f37ae919d4f3b00a9db0021492e7db65843fc
+
+Oui ça marche tip top ! :V
