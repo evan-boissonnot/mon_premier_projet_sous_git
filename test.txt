@@ -1,3 +1,4 @@
+<<<<<<< .mine
 <<<<<<< HEAD
 <<<<<<< HEAD
 teststs
@@ -38,6 +39,49 @@ Oui ça marche tip top ! :V
 Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
 
 
+=======
+Je suis ton père.
+
+- C'est quoi le plus dur à mixer dans les légumes ?
+- Le fauteuil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
 Alexis 
 
 =======
@@ -50,6 +94,7 @@ C'est quoi le plus dur à mixer dans les légumes ?
 Comment appelle-t-on un chien qui n'a pas de pattes ? 
 
 On l'appelle pas, on va le chercher...
+<<<<<<< .mine
 
 
 
@@ -57,3 +102,12 @@ On l'appelle pas, on va le chercher...
 
 
 ======= 
+=======
+
+
+
+
+
+
+
+>>>>>>> .theirs
