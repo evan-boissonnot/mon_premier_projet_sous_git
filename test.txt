@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 teststs
 <<<<<<< HEAD
 Vive la bienveillance !
@@ -39,3 +40,6 @@ Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, r
 
 
 les commandes 656413546464555
+=======
+Je suis ton père.
+>>>>>>> 113cf2219c28d9e881aec1870a220c66ea810e1b
