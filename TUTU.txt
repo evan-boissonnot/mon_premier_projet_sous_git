@@ -1,0 +1,4 @@
+Coucou,
+
+J'ai récupéré le cours de Vincent et je l'ai envoyé à Robin pour qu'il le mette sur le Drive.
+Attention, il n'est pas en format pdf et il y a des bugs de lecture.
