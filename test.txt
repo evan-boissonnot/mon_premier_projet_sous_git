@@ -1,8 +1,15 @@
-<<<<<<< HEAD
+Je suis ton père.
+<<<<<<< .mine
 <<<<<<< HEAD
 teststs
 <<<<<<< HEAD
+=======
+
+
+
+>>>>>>> .theirs
 Vive la bienveillance !
+<<<<<<< .mine
 =======
 backup1
 pas bon
@@ -11,8 +18,19 @@ pas bon
 =======
 
 
+=======
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
 Quizz : Star Wars 7 et 8 font il partie de la série ? 
 Amaury
+<<<<<<< .mine
 
 evelyne
 
@@ -38,4 +56,31 @@ C'est bien les conflitS?
 
 Oui ça marche tip top ! :V
 
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
 Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
