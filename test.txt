@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<< HEADkjvldhfdwjvkxbjlxh
 <<<<<<< HEAD
 teststs
 <<<<<<< HEAD
@@ -40,3 +40,6 @@ Les 7 comm(tutut pouet pouet!!)andements :  tester tôt, le paradoxe du pesticide
 =======
 Je suis ton père.
 >>>>>>> 113cf2219c28d9e881aec1870a220c66ea810e1b
+
+fifidj
+
