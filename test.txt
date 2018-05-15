@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LTG - MAJ Lionel
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -37,3 +38,6 @@ C'est bien les conflitS?
 Oui ça marche tip top ! :V
 
 Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
+=======
+Je suis ton père.
+>>>>>>> 113cf2219c28d9e881aec1870a220c66ea810e1b
