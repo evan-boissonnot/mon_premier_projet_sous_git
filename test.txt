@@ -1,7 +1,18 @@
 Je suis ton père.
+<<<<<<< HEAD
+=======
+<<<<<<< .mine
+<<<<<<< HEAD
+>>>>>>> 9663e16fdd14d243aa07b08185d9415f5f5795cb
 teststs
 <<<<<<< HEAD
+=======
+
+
+
+>>>>>>> .theirs
 Vive la bienveillance !
+<<<<<<< .mine
 =======
 backup1
 pas bon
@@ -10,6 +21,7 @@ pas bon
 =======
 
 
+<<<<<<< HEAD
 <<<<<<< .mine
 evelyne
 
@@ -39,13 +51,27 @@ vive dede
 
 
 Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
+=======
+=======
 
 
 
 
+>>>>>>> 9663e16fdd14d243aa07b08185d9415f5f5795cb
+
+
+
+
+<<<<<<< HEAD
 
 =======
 
+=======
+>>>>>>> .theirs
+Quizz : Star Wars 7 et 8 font il partie de la série ? 
+Amaury
+<<<<<<< .mine
+>>>>>>> 9663e16fdd14d243aa07b08185d9415f5f5795cb
 
 evelyne
 
@@ -71,11 +97,39 @@ C'est bien les conflitS?
 
 Oui ça marche tip top ! :V
 
-Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
+=======
 
 
+<<<<<<< HEAD
 les commandes 656413546464555
 =======
 Je suis ton père.
 >>>>>>> 113cf2219c28d9e881aec1870a220c66ea810e1b
 >>>>>>> .theirs
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
+Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
+>>>>>>> 9663e16fdd14d243aa07b08185d9415f5f5795cb
