@@ -17,17 +17,17 @@ Playlist 1:
 
 Playlist 2:
 
-1. Mr. Blue Sky - Electric Light Orchestra
-2. Fox On The Run - The Sweet
-3. Lake Shore Drive - Aliotta Haynes Jeremiah
-4. The Chain - Fleetwood Mac
-5. Bring It on Home to Me - Sam Cooke
-6. Southern Nights - Glen Campbell
-7. My Sweet Lord - George Harrison
-8. Brandy (You're A Fine Girl) - Looking Glass
-9. Come A Little Bit Closer - Jay & The Americans
-10. Wham Bam Shang-a-Lang - Silver
-11. Surrender - Cheap Trick
-12. Father And Son - Cat Stevens
-13. Flash Light - Parliament
-14. Guardians Inferno [feat. David Hasselhoff] - The Sneepers
+1. Electric Light Orchestra - Mr. Blue Sky
+2. The Sweet - Fox On The Run
+3. Aliotta Haynes Jeremiah - Lake Shore Drive
+4. Fleetwood Mac - The Chain
+5. Sam Cooke - Bring It on Home to Me
+6. Glen Campbell - Southern Nights
+7. George Harrison -  My Sweet Lord
+8. Looking Glass - Brandy (You're A Fine Girl)
+9. Jay & The Americans - Come A Little Bit Closer
+10. Silver - Wham Bam Shang-a-Lang
+11. Cheap Trick - Surrender
+12. Cat Stevens - Father And Son
+13. Parliament - Flash Light
+14. The Sneepers - Guardians Inferno [feat. David Hasselhoff]
