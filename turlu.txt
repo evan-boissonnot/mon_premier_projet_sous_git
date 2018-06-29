@@ -1,2 +1,7 @@
 vive la vie le saucisson et le pinard
+<<<<<<< HEAD
 turlututu chapeau pointu
+=======
+
+F*** yeah !! :D Le gras c'est la vie
+>>>>>>> 7c92bde64392673138eb2d8c55a4148ef2c47591
