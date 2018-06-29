@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 je sais pas quoi dire :) 
 
 
 je sais toujours pas quoi dire :'( 
 
 J'aimerais savoir quoi dire
+=======
+>>>>>>> 73a97784b51ee3c6ea54e7db6a070c5ecf5985d9

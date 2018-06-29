@@ -1,6 +1,10 @@
-
 - C'est quoi le plus dur à mixer dans les légumes ?
 - Le fauteuil.
 
+<<<<<<< HEAD
 Quel est le point commun entre un sourd et un gynécologue ?
 – Les deux savent lire sur les lèvres.
+=======
+#trololo
+
+>>>>>>> 73a97784b51ee3c6ea54e7db6a070c5ecf5985d9
