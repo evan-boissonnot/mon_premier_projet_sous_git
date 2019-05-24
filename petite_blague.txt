@@ -1,5 +1,7 @@
 - C'est quoi le plus dur à mixer dans les légumes ?
 - Le fauteuil.
++1 ^^
+
 
 
 #trololo
@@ -7,8 +9,13 @@
 - Qu'est ce qui est jaune et qui attend ?
 - C'est Jonathan !
 
+<<<<<<< HEAD
 Qu'est ce qui est bleu et qui fait niou-niouf?
 ...
 ...
 ...
 Un niouf-niouf bleu!
+=======
+qu'est ce qu'une blonde avec 2 neuronnes ? 
+une blonde enceinte
+>>>>>>> 70149679735411b0f470133f413981e024c705ce
