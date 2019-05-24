@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Danse avec les stars >>>> Star wars >>>> Star Trek
+=======
+Star wars >>>> Star Trek
+
+*grab popcorn*
+>>>>>>> a9b22c95292d8c0122aa504a826a1dbcf6af541a

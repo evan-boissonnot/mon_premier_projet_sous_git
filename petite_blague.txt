@@ -3,18 +3,23 @@
 +1 ^^
 
 
-<<<<<<< HEAD
-Quel est le point commun entre un sourd et un gynécologue ?
-– Les deux savent lire sur les lèvres.
-=======
+
 #trololo
 
 - Qu'est ce qui est jaune et qui attend ?
 - C'est Jonathan !
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 -Qu'est-ce qu'un juif qui survit dans un four ?
 -Un dur à cuire
+=======
+Qu'est ce qui est bleu et qui fait niou-niouf?
+...
+...
+...
+Un niouf-niouf bleu!
+>>>>>>> a9b22c95292d8c0122aa504a826a1dbcf6af541a
 =======
 qu'est ce qu'une blonde avec 2 neuronnes ? 
 une blonde enceinte
