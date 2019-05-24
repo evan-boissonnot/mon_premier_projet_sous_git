@@ -1,2 +1,8 @@
 one piece est meilleur que Naruto
+<<<<<<< HEAD
 mais Death Note est le meilleur mangas et son film Netflix est une pépite cinématographique
+=======
+mais Death Note est le meilleur mangas
+
+ah bon je préfère manga moi
+>>>>>>> d40d93f52996903d435b68b9667603dd56703807

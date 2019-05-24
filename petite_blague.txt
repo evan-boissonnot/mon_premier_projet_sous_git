@@ -11,9 +11,15 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -Qu'est-ce qu'un juif qui survit dans un four ?
 -Un dur à cuire
 =======
+=======
+oh ça va palire à yoan ça
+=======
+<<<<<<< HEAD
+>>>>>>> d40d93f52996903d435b68b9667603dd56703807
 Qu'est ce qui est bleu et qui fait niou-niouf?
 ...
 ...
@@ -24,3 +30,4 @@ Un niouf-niouf bleu!
 qu'est ce qu'une blonde avec 2 neuronnes ? 
 une blonde enceinte
 >>>>>>> 70149679735411b0f470133f413981e024c705ce
+>>>>>>> a9b22c95292d8c0122aa504a826a1dbcf6af541a

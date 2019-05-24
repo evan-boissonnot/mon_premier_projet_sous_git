@@ -133,3 +133,5 @@ Je suis ton père.
 >>>>>>> .theirs
 Les 7 commandements :  tester tôt, le paradoxe du pesticide, la loi de pareto, regrouper les défauts, la règle 1 pour 10 et et et test présence défaut, et dépendance du contexte.
 >>>>>>> 9663e16fdd14d243aa07b08185d9415f5f5795cb
+
+pas du tout t'est pas mon père

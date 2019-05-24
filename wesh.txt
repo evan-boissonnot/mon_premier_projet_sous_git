@@ -1,2 +1,6 @@
 Tu l'as vu ma grosse patate ?
+<<<<<<< HEAD
 wesh j'te la marave frère tu peux pas test
+=======
+non!!! montre moi
+>>>>>>> d40d93f52996903d435b68b9667603dd56703807
