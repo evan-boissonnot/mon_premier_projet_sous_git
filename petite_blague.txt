@@ -1,5 +1,7 @@
 - C'est quoi le plus dur à mixer dans les légumes ?
 - Le fauteuil.
++1 ^^
+
 
 <<<<<<< HEAD
 Quel est le point commun entre un sourd et un gynécologue ?
@@ -10,5 +12,10 @@ Quel est le point commun entre un sourd et un gynécologue ?
 - Qu'est ce qui est jaune et qui attend ?
 - C'est Jonathan !
 
+<<<<<<< HEAD
 -Qu'est-ce qu'un juif qui survit dans un four ?
 -Un dur à cuire
+=======
+qu'est ce qu'une blonde avec 2 neuronnes ? 
+une blonde enceinte
+>>>>>>> 70149679735411b0f470133f413981e024c705ce
